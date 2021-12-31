@@ -4,7 +4,11 @@
 ## better win10
 
 ### 包管理
-- 名称 chocolatey
+
+#### winget
+win10自带
+
+#### chocolatey
 - 官网 https://chocolatey.org/
 - 快速开始（PowerShell 管理员）
 ```
